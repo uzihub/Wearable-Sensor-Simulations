@@ -1,0 +1,8 @@
+├── models/
+│   ├── baseline_stetch_sensor.mph     # Your COMSOL model files
+│   └── material_parameters.txt        # Structural & material data
+├── docs/
+│   ├── latex_templates/
+│   │   ├── main.tex                   # Pre-formatted LaTeX template
+│   │   └── figures/                   # Folder for plotted data
+└── README.md
